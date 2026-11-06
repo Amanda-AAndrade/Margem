@@ -1,0 +1,10 @@
+{
+  "name": "Margem — espaço de escrita",
+  "short_name": "Margem",
+  "description": "Um espaço tranquilo para escrever, online ou offline.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f7f4",
+  "theme_color": "#f8f7f4",
+  "lang": "pt-BR"
+}
