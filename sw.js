@@ -1,4 +1,4 @@
-const CACHE = 'margem-shell-v1';
+const CACHE = 'margem-shell-v2';
 const FILES = ['./', './index.html', './manifest.json'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(FILES)));
