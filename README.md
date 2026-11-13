@@ -26,7 +26,9 @@ Os documentos são salvos no armazenamento local do navegador. O projeto também
 - **Salvamento automático local:** as alterações são persistidas no navegador após uma breve pausa na digitação.
 - **Contagem de palavras:** acompanhar a quantidade de palavras do documento aberto.
 - **Biblioteca:** visualizar todos os textos, acessar os documentos recentes (atualizados nos últimos sete dias) e consultar os favoritos.
+- **Navegação responsiva:** acesso aos filtros principais também em telas menores.
 - **Favoritos:** marcar e desmarcar documentos.
+- **Exclusão de documentos:** remover um texto com confirmação antes da ação.
 - **Exportação individual:** baixar um documento como arquivo TXT.
 - **Backup da biblioteca:** exportar todos os documentos em um arquivo JSON.
 - **Uso offline:** o Service Worker armazena a estrutura principal e recursos GET da mesma origem em cache.
